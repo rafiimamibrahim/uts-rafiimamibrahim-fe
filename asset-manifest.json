@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uts-rafiimamibrahim-fe/static/css/main.b36a9d58.css",
+    "main.js": "/uts-rafiimamibrahim-fe/static/js/main.960cd055.js",
+    "index.html": "/uts-rafiimamibrahim-fe/index.html",
+    "main.b36a9d58.css.map": "/uts-rafiimamibrahim-fe/static/css/main.b36a9d58.css.map",
+    "main.960cd055.js.map": "/uts-rafiimamibrahim-fe/static/js/main.960cd055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b36a9d58.css",
+    "static/js/main.960cd055.js"
+  ]
+}
