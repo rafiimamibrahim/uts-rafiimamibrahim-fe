@@ -9,7 +9,7 @@ import Sidebar from './components/Sidebar';
 
 const App = () => {
   return (
-    <Router>
+    <div>
       <div className="flex h-screen bg-gray-100">
         <Sidebar />
         <div className="flex-1">
@@ -24,7 +24,7 @@ const App = () => {
           </BrowserRouter>
         </div>
       </div>
-    </Router>
+    </div>
   );
 };
 
